@@ -1,0 +1,14 @@
+# Токен бота, его можно получить у https://t.me/botfather
+bot_token = 1234567890:AaBbCcDdEeFGgHhIiJjKkLlMmNnOoPpQq
+
+# Ваш домен
+url_domain = example.com
+
+# Путь к URL вебхука на домене
+url_path = /bot
+
+# IP-адрес на котором будет запущен бот
+server_host = "0.0.0.0"
+
+# Порт на котором будет запущен бот
+server_port = 9000
